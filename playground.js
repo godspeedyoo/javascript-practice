@@ -34,4 +34,4 @@ var student = new Student(
 // console.log(student.getName());
 
 // Student(i)
-console.log(student.Name);
+// console.log(student.Name);
