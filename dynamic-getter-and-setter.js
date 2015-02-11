@@ -14,4 +14,4 @@ function Person(properties) {
   }
 }
 
-bob = new Person({name: "Bob", age: "20"})
+bob = new Person({name: "Bob", age: "20", hatSize: 1})
